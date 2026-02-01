@@ -11,19 +11,8 @@ Voltura UI adds elegance and personality to your toolkit. Its playful, developer
 ![Github](https://img.shields.io/github/stars/hungrix/voltura)
 
 <a href="https://volturaui.netlify.app/">
-  <table>
-    <tr>
-      <td>
-        <img
-          src="https://cdn.jsdelivr.net/gh/hungrix/voltura@master/docs/assets/img/voltura.webp"
-          alt="Voltura UI"
-          width="80"
-        />
-      </td>
-    </tr>
-  </table>
-</a>
->
+ <img src="https://cdn.jsdelivr.net/gh/hungrix/voltura@master/docs/assets/img/voltura.webp" alt="Voltura UI" style="max-width: 100%;" width="300">
+</a>>
 
 ## Installation
 
