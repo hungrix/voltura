@@ -1,0 +1,36 @@
+{
+  "name": "voltura",
+  "version": "1.0.0",
+  "description": "Voltura combines intuitive developer experience with sophisticated design, helping creators deliver striking, reliable, high-impact interfaces.",
+  "main": "dist/production/css/voltura.prod.min.css",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hungrix/voltura.git"
+  },
+  "keywords": [
+    "voltura",
+    "css",
+    "ui",
+    "components",
+    "framework",
+    "library",
+    "design",
+    "responsive",
+    "expressive",
+    "developer-friendly",
+    "frontend",
+    "design-system",
+    "utility-first"
+  ],
+  "author": "Allen Charls Casul",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hungrix/voltura/issues"
+  },
+  "homepage": "https://github.com/hungrix/voltura#readme",
+  "files": [
+    "dist",
+    "README.md",
+    "LICENSE"
+  ]
+}
