@@ -12,7 +12,7 @@ Voltura UI adds elegance and personality to your toolkit. Its playful, developer
 
 <a href="https://volturaui.netlify.app/">
  <img src="https://cdn.jsdelivr.net/gh/hungrix/voltura@master/docs/assets/img/voltura.webp" alt="Voltura UI" style="max-width: 100%;" width="300">
-</a>>
+</a>
 
 ## Installation
 
@@ -40,4 +40,5 @@ Full documentation: [Click here.](https://volturaui.netlify.app)
 
 
 Copyright Holder: Allen Charls Casul. The source code is licensed under [the MIT license](https://github.com/hungrix/voltura/blob/main/LICENSE).
+
 
